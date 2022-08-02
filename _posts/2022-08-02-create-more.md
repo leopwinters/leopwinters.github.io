@@ -13,6 +13,7 @@ I want to do more creative activities, such as:
 - Speaking;
 - Drawing;
 - Programming;
+- Photography;
 - Making music.
 
 I want to do fewer passive activities, such as:
