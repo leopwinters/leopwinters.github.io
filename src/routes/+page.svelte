@@ -18,21 +18,26 @@
 
 	<p>
 		Maar stoppen blijkt lastig. Deze diensten hebben een aanzuigende werking. En dat is niet
-		toevallig. Zo zijn ze ontworpen.
+		toevallig. Zo zijn ze ontworpen. Want bedrijven strijden om onze aandacht, om die te verkopen
+		aan de hoogste bieder.
 	</p>
 
 	<p>
-		Want bedrijven strijden om onze aandacht, om die te verkopen aan de hoogste bieder. En ze worden
-		er steeds beter in.
+		We moeten dus niet naief zijn en ons actief verzetten. Dat doe ik met het maken van deze website
+		op drie manieren:
 	</p>
-
-	<p>We moeten ons dus wapenen. We moeten slim zijn.</p>
-
-	<p>En voor mij is deze website het begin. Hier begint mijn actie. Hier maak ik.</p>
+	<ul>
+		<li>
+			Iets maken &ndash; het <em>zelf</em> doen &ndash; is een zinvolle manier van verzet tegen domme
+			consumptie.
+		</li>
+		<li>Ik deel hier wat ik leer over het beter besteden van mijn tijd.</li>
+		<li>Ik wil via deze website gelijkgestemden vinden om samen te werken en te discussieren.</li>
+	</ul>
 
 	<p>
-		Doe met me mee. Maak iets, op wat voor manier dan ook. Pak de macht terug. En laten we het
-		delen. Stuur me een mailtje :)
+		Doe met me mee. Maak iets, op wat voor manier dan ook. Pak de macht terug. En laten we
+		samenwerken. Stuur me een mailtje :)
 	</p>
 </article>
 
