@@ -1,0 +1,24 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.3.0
+    hooks:
+      - id: check-yaml
+      - id: end-of-file-fixer
+
+  - repo: local
+    hooks:
+      - id: check
+        name: check
+        entry: npm run check
+        language: node
+        pass_filenames: false
+      - id: lint
+        name: lint
+        entry: npm run lint
+        language: node
+        pass_filenames: false
+      - id: format
+        name: format
+        entry: npm run format
+        language: node
+        pass_filenames: false
