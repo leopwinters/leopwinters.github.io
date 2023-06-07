@@ -41,6 +41,25 @@
 	</p>
 </article>
 
+<hr />
+
+<article>
+	<h1>Kijk om je heen</h1>
+
+	<address>
+		Door Leo Winters
+		<a rel="author" href="mailto:leopwinters@protonmail.com">leopwinters@protonmail.com</a>
+	</address>
+	<time datetime="2023-06-07" title="7 juni 2023">Op 7 juni 2023</time>
+
+	<p>
+		Kijk om je heen. Wat is het kleinste wat je <em>nu</em> kunt doen om de directe wereld om je heen
+		beter te maken? Het kan eenvoudig zijn, zoals het afwassen van een vieze koffiemok.
+	</p>
+
+	<p>Doe dat nu. Blijf dat doen. En je zult zien dat je wereld steeds beter wordt.</p>
+</article>
+
 <style>
 	article {
 		max-width: 60ch;
