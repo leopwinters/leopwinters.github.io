@@ -60,6 +60,8 @@
 	<p>Doe dat nu. Blijf dat doen. En je zult zien dat je wereld steeds beter wordt.</p>
 </article>
 
+<hr />
+
 <article>
 	<h1>Zomaar wat dingen waar ik mijn tijd aan heb verspild</h1>
 
