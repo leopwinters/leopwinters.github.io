@@ -60,6 +60,44 @@
 	<p>Doe dat nu. Blijf dat doen. En je zult zien dat je wereld steeds beter wordt.</p>
 </article>
 
+<article>
+	<h1>Zomaar wat dingen waar ik mijn tijd aan heb verspild</h1>
+
+	<address>
+		Door Leo Winters
+		<a rel="author" href="mailto:leopwinters@protonmail.com">leopwinters@protonmail.com</a>
+	</address>
+	<time datetime="2023-06-08" title="8 juni 2023">Op 8 juni 2023</time>
+
+	<p>Hier is een lijstje met enkele voorbeelden van dingen waar ik mijn tijd aan heb verspild:</p>
+
+	<ul>
+		<li>
+			Youtube:
+			<ul>
+				<li>"Making the world's purest cookie"</li>
+				<li>"A Man Swallowed Wireless Airbud. This Is What Happened To His Esophagus"</li>
+				<li>"Bed Bugs- What You've Been Told is Totally False"</li>
+			</ul>
+		</li>
+		<li>
+			Netflix:
+			<ul>
+				<li>Het eerste seizoen van "Manifest"</li>
+				<li>Alle seizoenen van "House of Cards"</li>
+				<li>"Unstable"</li>
+				<li>"Is it Cake?"</li>
+			</ul>
+		</li>
+	</ul>
+
+	<p>
+		Al deze dingen had ik prima kunnen missen. En er is nog veel meer hiervan. Misschien moet ik een
+		programma maken dat je kunt verbinden met platformen (Youtube, Steam, Netflix, etc.), om op die
+		manier te zien hoeveel tijd je wel niet hebt verspild aan vanalles en nogwat. Of bestaat dat al?
+	</p>
+</article>
+
 <style>
 	article {
 		max-width: 60ch;
