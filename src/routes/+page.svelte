@@ -79,7 +79,7 @@
 			<ul>
 				<li>"Making the world's purest cookie"</li>
 				<li>"A Man Swallowed Wireless Airbud. This Is What Happened To His Esophagus"</li>
-				<li>"Bed Bugs- What You've Been Told is Totally False"</li>
+				<li>"Bed Bugs - What You've Been Told is Totally False"</li>
 			</ul>
 		</li>
 		<li>
