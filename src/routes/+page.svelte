@@ -100,6 +100,22 @@
 	</p>
 </article>
 
+<article>
+	<h1>Verveling is onze beste bondgenoot</h1>
+
+	<address>
+		Door Leo Winters
+		<a rel="author" href="mailto:leopwinters@protonmail.com">leopwinters@protonmail.com</a>
+	</address>
+	<time datetime="2023-06-13" title="13 juni 2023">Op 13 juni 2023</time>
+
+	<p>
+		Verveling, een gevoel van leegte, een verlangen naar <em>iets</em>, lijkt soms de grootste
+		vijand. Maar het is juist onze beste bondgenoot. Kies verveling boven afleiding. Want verveling
+		en limitaties leiden tot de meest creatieve inspanningen.
+	</p>
+</article>
+
 <style>
 	article {
 		max-width: 60ch;
