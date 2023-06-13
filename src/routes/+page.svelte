@@ -98,6 +98,8 @@
 	<p>Waar verspil jij je tijd aan?</p>
 </article>
 
+<hr />
+
 <article>
 	<h1>Verveling is onze beste bondgenoot</h1>
 
