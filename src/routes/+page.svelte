@@ -93,11 +93,9 @@
 		</li>
 	</ul>
 
-	<p>
-		Al deze dingen had ik prima kunnen missen. En er is nog veel meer hiervan. Misschien moet ik een
-		programma maken dat je kunt verbinden met platformen (Youtube, Steam, Netflix, etc.), om op die
-		manier te zien hoeveel tijd je wel niet hebt verspild aan vanalles en nogwat. Of bestaat dat al?
-	</p>
+	<p>Al deze dingen had ik prima kunnen missen. En er is nog veel meer hiervan.</p>
+
+	<p>Waar verspil jij je tijd aan?</p>
 </article>
 
 <article>
