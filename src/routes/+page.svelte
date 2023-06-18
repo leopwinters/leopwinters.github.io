@@ -152,9 +152,9 @@
 	</ol>
 
 	<p>
-		Oke, laten we het ook van een andere kant benaderen: de woordstructuur (dit heet ook wel
-		morfologie). Als we de "-ing" van verleiding afhalen dan hebben we verleiden. Een verleiding is
-		dus hetgeen waarmee we worden verleid. En wat is dan verleiden?
+		Oke, laten we het ook van een andere kant benaderen: de woordstructuur. Als we de "-ing" van
+		verleiding afhalen dan hebben we verleiden. Een verleiding is dus hetgeen waarmee we worden
+		verleid. En wat is dan verleiden?
 	</p>
 
 	<p>
