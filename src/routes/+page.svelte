@@ -162,12 +162,16 @@
 		dus "slecht laten doen".
 	</p>
 
+	<p>Het verschil tussen 'verleiden' en 'afleiden' blijf ik moeilijk te definiëren vinden.</p>
+
 	<p>
-		Misschien kunnen we het vergelijken met Roodkapje die door de wolf verleid wordt om mooie
-		bloemen te plukken, en daarbij steeds verder van het pad afraakt. Bloemen zijn niet per
-		definitie slecht, en het plukken daarvan ook niet. Maar de wolf gebruikt het als een middel om
-		Roodkapje af te leiden, terwijl hij alvast vooruitloopt om Roodkapjes oma te verorberen.
+		De wolf overtuigt Roodkapje om mooie bloemen te plukken. Daardoor raak te steeds verder van het
+		pad af. Bloemen zijn niet per definitie slecht, en het plukken daarvan ook niet. Maar de wolf
+		gebruikt het als een middel om zorgen dat Roodkapje bezig is, terwijl hij alvast vooruitloopt om
+		Roodkapjes oma te verorberen.
 	</p>
+
+	<p>Heeft de wolf Roodkapje afgeleid? Of verleid? Of allebei?</p>
 
 	<p>
 		En dan sluit ik af met een vraag: is er altijd <em>iemand/iets</em> die verleidt? Is het anders afleiding?
