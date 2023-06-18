@@ -165,16 +165,25 @@
 	<p>Het verschil tussen 'verleiden' en 'afleiden' blijf ik moeilijk te definiëren vinden.</p>
 
 	<p>
-		De wolf overtuigt Roodkapje om mooie bloemen te plukken. Daardoor raak te steeds verder van het
+		De wolf overtuigt Roodkapje om mooie bloemen te plukken. Daardoor raak ze steeds verder van het
 		pad af. Bloemen zijn niet per definitie slecht, en het plukken daarvan ook niet. Maar de wolf
 		gebruikt het als een middel om zorgen dat Roodkapje bezig is, terwijl hij alvast vooruitloopt om
 		Roodkapjes oma te verorberen.
 	</p>
 
-	<p>Heeft de wolf Roodkapje afgeleid? Of verleid? Of allebei?</p>
+	<p>
+		Heeft de wolf Roodkapje afgeleid? Of verleid? Of allebei? Misschien is het afhankelijk van of
+		Roodkapje iets verkeerds deed. En mochten we stellen dat van het pad afgaan iets verkeerds is,
+		in hoeverre besefte ze dat, en in hoeverre had ze dat zich <em>moeten</em> beseffen?
+	</p>
 
 	<p>
-		En dan sluit ik af met een vraag: is er altijd <em>iemand/iets</em> die verleidt? Is het anders afleiding?
+		Afleiden is misschien 'van het goede pad' af laten gaan, of iemand stil doen staan. En verleiden
+		is wellicht specifieker: 'het slechte pad opsturen'.
+	</p>
+
+	<p>
+		En dan sluit ik af met een vraag: is er altijd <em>iemand/iets</em> die verleidt?
 	</p>
 </article>
 
