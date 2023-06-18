@@ -116,9 +116,71 @@
 	</p>
 </article>
 
+<hr />
+
+<article>
+	<h1>Verleidingen</h1>
+
+	<address>
+		Door Leo Winters
+		<a rel="author" href="mailto:leopwinters@protonmail.com">leopwinters@protonmail.com</a>
+	</address>
+	<time datetime="2023-06-18" title="18 juni 2023">Op 18 juni 2023</time>
+
+	<!--	<blockquote>-->
+	<!--		Luie mensen willen veel en krijgen niets,<br>-->
+	<!--		maar mensen die hard werken, zullen veel ontvangen.<br>-->
+	<!--		<cite>(Spr. 13:4)</cite>-->
+	<!--	</blockquote>-->
+
+	<p>
+		Er zijn zoveel verleidingen. Maar wat is een verleiding? Ik kan zo drie eigenschappen van een
+		verleiding bedenken:
+	</p>
+
+	<ol>
+		<li>Je zou het kunnen doen</li>
+		<li>Het heeft je aandacht</li>
+		<li>Het is slecht</li>
+	</ol>
+
+	Hmm, maar met deze definitie zou het net zo goed een "afleiding" kunnen zijn. Dus ik voeg er nog
+	iets aan toe:
+
+	<ol start="4">
+		<li>Het heeft een aantrekkingskracht, een deel van je <em>wil</em> het doen</li>
+	</ol>
+
+	<p>
+		Oke, laten we het ook van een andere kant benaderen: de woordstructuur (dit heet ook wel
+		morfologie). Als we de "-ing" van verleiding afhalen dan hebben we verleiden. Een verleiding is
+		dus hetgeen waarmee we worden verleid. En wat is dan verleiden?
+	</p>
+
+	<p>
+		"ver-" geeft een verandering, vaak ten kwade aan. En "leiden" betekent "doen gaan". Verleiden is
+		dus "slecht laten doen".
+	</p>
+
+	<p>
+		Misschien kunnen we het vergelijken met Roodkapje die door de wolf verleid wordt om mooie
+		bloemen te plukken, en daarbij steeds verder van het pad afraakt. Bloemen zijn niet per
+		definitie slecht, en het plukken daarvan ook niet. Maar de wolf gebruikt het als een middel om
+		Roodkapje af te leiden, terwijl hij alvast vooruitloopt om Roodkapjes oma te verorberen.
+	</p>
+
+	<p>
+		En dan sluit ik af met een vraag: is er altijd <em>iemand/iets</em> die verleidt? Is het anders afleiding?
+	</p>
+</article>
+
 <style>
 	article {
 		max-width: 60ch;
 		margin: auto;
+	}
+
+	h1 {
+		font-family: 'sans-serif';
 	}
 </style>
