@@ -167,8 +167,8 @@
 	<p>
 		De wolf overtuigt Roodkapje om mooie bloemen te plukken. Daardoor raakt ze steeds verder van het
 		pad af. Bloemen zijn niet per definitie slecht, en het plukken daarvan ook niet. Maar de wolf
-		gebruikt het als een middel om zorgen dat Roodkapje bezig is, terwijl hij alvast vooruitloopt om
-		Roodkapjes oma te verorberen.
+		gebruikt het als een middel om te zorgen dat Roodkapje bezig is, terwijl hij alvast vooruitloopt
+		om Roodkapjes oma te verorberen.
 	</p>
 
 	<p>
