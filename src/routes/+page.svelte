@@ -165,7 +165,7 @@
 	<p>Het verschil tussen 'verleiden' en 'afleiden' blijf ik moeilijk te definiëren vinden.</p>
 
 	<p>
-		De wolf overtuigt Roodkapje om mooie bloemen te plukken. Daardoor raak ze steeds verder van het
+		De wolf overtuigt Roodkapje om mooie bloemen te plukken. Daardoor raakt ze steeds verder van het
 		pad af. Bloemen zijn niet per definitie slecht, en het plukken daarvan ook niet. Maar de wolf
 		gebruikt het als een middel om zorgen dat Roodkapje bezig is, terwijl hij alvast vooruitloopt om
 		Roodkapjes oma te verorberen.
